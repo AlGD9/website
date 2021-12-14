@@ -136,7 +136,7 @@ a.secondary-text {
     color: #1F2937;
     font-family: Arial, Helvetica, sans-serif;  
     font-size: 36px;
-    font-style: italic;      
+    font-style: italic;  
     width: 815px;
 }
 
@@ -144,7 +144,6 @@ a.secondary-text {
     font-size: 25px;
     padding: 10px 30px 85px;
     text-align: right;
-    font-weight: bolder;
 }
 
 
